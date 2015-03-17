@@ -1,0 +1,308 @@
+[27-Feb-2015 02:07:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv_admin/categorias.php on line 4
+[27-Feb-2015 22:02:47 UTC] PHP Warning:  include(vfunctions/conect): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:02:47 UTC] PHP Warning:  include(vfunctions/conect): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:02:47 UTC] PHP Warning:  include(): Failed opening 'vfunctions/conect' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:02:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:20:18 UTC] PHP Warning:  include(vfunctions/conect): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:20:18 UTC] PHP Warning:  include(vfunctions/conect): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:20:18 UTC] PHP Warning:  include(): Failed opening 'vfunctions/conect' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:20:18 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:21:29 UTC] PHP Warning:  include(/geven/vfunctions/conect): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:21:29 UTC] PHP Warning:  include(): Failed opening '/geven/vfunctions/conect' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:21:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:22:37 UTC] PHP Warning:  include(/geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:22:37 UTC] PHP Warning:  include(): Failed opening '/geven/vfunctions/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:22:37 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:23:24 UTC] PHP Warning:  include(../geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:23:24 UTC] PHP Warning:  include(../geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:23:24 UTC] PHP Warning:  include(): Failed opening '../geven/vfunctions/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:23:24 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:24:42 UTC] PHP Warning:  include(/geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:24:42 UTC] PHP Warning:  include(): Failed opening '/geven/vfunctions/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[27-Feb-2015 22:24:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:26:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:26:21 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:26:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:26:21 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:26:21 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:29:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:29:39 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:29:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:29:39 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:29:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:30:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:30:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:30:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:30:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:30:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:33:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:33:23 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:33:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:33:23 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:33:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:43 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:43 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:43 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:46 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:48 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:36:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 12
+[27-Feb-2015 22:36:49 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[27-Feb-2015 22:36:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 18
+[27-Feb-2015 22:36:49 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 23
+[27-Feb-2015 22:36:49 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:37:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 22:37:23 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 22:37:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 8
+[27-Feb-2015 22:37:23 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 13
+[27-Feb-2015 22:37:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:38:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 22:38:04 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 22:38:04 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 13
+[27-Feb-2015 22:38:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 22:38:35 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 22:38:35 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 22:38:35 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 23:20:36 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:20:37 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 23:20:37 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 6
+[27-Feb-2015 23:20:37 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:21:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 2
+[27-Feb-2015 23:21:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:25:38 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 21
+[27-Feb-2015 23:25:39 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 21
+[27-Feb-2015 23:25:58 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:31:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[27-Feb-2015 23:35:51 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/newweb/public_html/geven/gv-admin/categorias.php on line 9
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[27-Feb-2015 23:56:41 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/index.php on line 301
+[28-Feb-2015 01:07:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 01:07:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 13
+[28-Feb-2015 01:07:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[28-Feb-2015 01:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 01:08:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 13
+[28-Feb-2015 01:08:04 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[28-Feb-2015 01:12:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[28-Feb-2015 01:12:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 8
+[28-Feb-2015 01:12:44 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 01:13:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 5
+[28-Feb-2015 01:13:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 8
+[28-Feb-2015 01:13:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 13:59:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'newweb_gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 22
+[28-Feb-2015 14:00:17 UTC] PHP Parse error:  syntax error, unexpected '"<div class='alert-warning'><h' (T_CONSTANT_ENCAPSED_STRING) in /home/newweb/public_html/geven/gv-admin/conect.php on line 27
+[28-Feb-2015 15:51:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:57:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:57:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:59:18 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:59:56 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:59:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 15:59:56 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 27
+[28-Feb-2015 16:04:22 UTC] PHP Fatal error:  Call to undefined function getCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[28-Feb-2015 16:06:31 UTC] PHP Fatal error:  Call to undefined function getCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[28-Feb-2015 16:07:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/newweb/public_html/geven/gv-admin/categorias.php on line 3
+[28-Feb-2015 16:07:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newweb/public_html/geven/gv-admin/categorias.php on line 6
+[28-Feb-2015 16:07:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newweb/public_html/geven/gv-admin/categorias.php on line 6
+[28-Feb-2015 16:08:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/newweb/public_html/geven/gv-admin/categorias.php on line 6
+[28-Feb-2015 16:08:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/newweb/public_html/geven/gv-admin/categorias.php on line 6
+[28-Feb-2015 16:10:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[28-Feb-2015 16:13:10 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 16:14:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 16:15:49 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 16:19:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 10
+[28-Feb-2015 16:22:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 14
+[28-Feb-2015 16:22:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[28-Feb-2015 16:25:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[28-Feb-2015 16:25:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 16:26:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[28-Feb-2015 16:26:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 16:27:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[28-Feb-2015 16:27:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 16:27:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[28-Feb-2015 16:27:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 16:28:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[28-Feb-2015 16:28:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 17
+[28-Feb-2015 16:31:27 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:29 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:30 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:31 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:31 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:40 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:41 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:41 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:42 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:31:42 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:32:48 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:32:49 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:32:56 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:32:56 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:32:56 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:33:00 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:33:01 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:33:01 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:33:02 UTC] PHP Fatal error:  Call to undefined function crearCategoria() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[28-Feb-2015 16:34:28 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/newweb/public_html/geven/gv-admin/categorias.php on line 4
+[04-Mar-2015 02:09:44 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 02:09:44 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 02:09:44 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[04-Mar-2015 23:11:31 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:11:31 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:11:31 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[04-Mar-2015 23:11:42 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:11:42 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:11:42 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[04-Mar-2015 23:13:39 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:13:39 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:13:39 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[04-Mar-2015 23:14:01 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:01 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:01 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[04-Mar-2015 23:14:31 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:31 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:34 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:34 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:35 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[04-Mar-2015 23:14:35 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[05-Mar-2015 00:58:18 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[05-Mar-2015 00:58:18 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[05-Mar-2015 00:58:18 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[05-Mar-2015 00:58:18 UTC] PHP Warning:  include(/geven/gv-admin/funcion/funciones.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[05-Mar-2015 00:58:18 UTC] PHP Warning:  include(): Failed opening '/geven/gv-admin/funcion/funciones.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[05-Mar-2015 00:58:18 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[05-Mar-2015 01:00:19 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:02:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:13:02 UTC] PHP Fatal error:  Call to a member function multi_query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:16:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:16:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:17:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 16
+[05-Mar-2015 01:17:40 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 20
+[05-Mar-2015 01:17:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'gvuser'@'localhost' (using password: YES) in /home/newweb/public_html/geven/gv-admin/conect.php on line 22
+[05-Mar-2015 01:17:40 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/newweb/public_html/geven/gv-admin/conect.php on line 27
+[05-Mar-2015 01:23:58 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:23:58 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:23:58 UTC] PHP Warning:  include(): Failed opening 'geven/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:23 UTC] PHP Warning:  include(geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:23 UTC] PHP Warning:  include(geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:23 UTC] PHP Warning:  include(): Failed opening 'geven/vfunctions/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:42 UTC] PHP Warning:  include(../geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:42 UTC] PHP Warning:  include(../geven/vfunctions/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:24:42 UTC] PHP Warning:  include(): Failed opening '../geven/vfunctions/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[05-Mar-2015 01:25:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:26:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:30:11 UTC] PHP Fatal error:  Call to a member function multi_query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 5
+[05-Mar-2015 01:38:09 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:38:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:41:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:42:47 UTC] PHP Parse error:  syntax error, unexpected '$sqlcate' (T_VARIABLE) in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[05-Mar-2015 01:44:28 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 3
+[05-Mar-2015 01:45:24 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 3
+[05-Mar-2015 01:47:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 3
+[05-Mar-2015 01:48:19 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 8
+[05-Mar-2015 23:58:33 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 4
+[06-Mar-2015 00:08:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 6
+[06-Mar-2015 00:19:22 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 6
+[06-Mar-2015 00:20:17 UTC] PHP Warning:  include(conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:17 UTC] PHP Warning:  include(conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:17 UTC] PHP Warning:  include(): Failed opening 'conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:51 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:51 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:51 UTC] PHP Warning:  include(): Failed opening 'geven/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:20:54 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/funcion/funciones.php on line 6
+[06-Mar-2015 00:21:09 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:09 UTC] PHP Warning:  include(geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:09 UTC] PHP Warning:  include(): Failed opening 'geven/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:13 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:21:34 UTC] PHP Warning:  include(./geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:34 UTC] PHP Warning:  include(./geven/conect.php): failed to open stream: No such file or directory in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:34 UTC] PHP Warning:  include(): Failed opening './geven/conect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/header.php on line 1
+[06-Mar-2015 00:21:41 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:22:10 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:23:34 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:23:50 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:48:52 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:53 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:57 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:58 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:58 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:51:59 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:52:00 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 00:52:00 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 16
+[06-Mar-2015 01:08:59 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:04 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:13 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:13 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:13 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:13 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:14 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:14 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:14 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:14 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:09:26 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:10:07 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:13:32 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[06-Mar-2015 01:14:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 31
+[06-Mar-2015 01:15:23 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/newweb/public_html/geven/gv-admin/categorias.php on line 37
+[06-Mar-2015 01:16:01 UTC] PHP Fatal error:  Call to undefined function query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[06-Mar-2015 01:16:48 UTC] PHP Fatal error:  Call to undefined function multi_query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[11-Mar-2015 00:37:12 UTC] PHP Fatal error:  Call to undefined function multi_query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[11-Mar-2015 00:37:12 UTC] PHP Fatal error:  Call to undefined function multi_query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[11-Mar-2015 00:39:49 UTC] PHP Fatal error:  Call to undefined function multi_query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[11-Mar-2015 01:48:44 UTC] PHP Fatal error:  Call to undefined function multi_query() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 38
+[11-Mar-2015 01:52:25 UTC] PHP Fatal error:  Call to undefined function listarCategorias() in /home/newweb/public_html/geven/gv-admin/categorias.php on line 15
+[11-Mar-2015 01:57:44 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[11-Mar-2015 01:57:46 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[11-Mar-2015 01:58:10 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/newweb/public_html/geven/gv-admin/categorias.php on line 33
+[11-Mar-2015 23:33:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 18
+[11-Mar-2015 23:36:25 UTC] PHP Warning:  include(): Filename cannot be empty in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[11-Mar-2015 23:36:25 UTC] PHP Warning:  include(): Filename cannot be empty in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[11-Mar-2015 23:36:25 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/newweb/public_html/geven/gv-admin/categorias.php on line 1
+[11-Mar-2015 23:36:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/newweb/public_html/geven/gv-admin/categorias.php on line 20

@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+	font-family:segoe ui !important;
+}
+/*Inicia css recoveryacount*/
+#formrecovery {
+	background: rgb(186, 186, 186);
+	border-radius: 15px;
+	width: 50%;
+	margin: 0 auto;
+}
+#formrecovery h1 {
+	font-size: 26px;
+	text-align: center;
+}
+#formrecovery h3 {
+
+}
+
+.jumbotron{
+	height: 385px;/*posicion para contenedor en la página recovery*/
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer{
+height: 155px;
+background: #A60000;
+box-shadow: 0px 0px 16px #000;
+color: #fff;
+text-align: center;
+}
+.push {
+    height: 155px; /* .push must be the same height as .footer */
+
+}
+.contHeader{
+background: #A60000;
+padding: 1% 0%;
+box-shadow: 0px 2px 8px;
+}
+.menuItem{
+padding: 1.5%;
+font-size: 1.2em;
+text-align: center;
+}
+.contTexto{
+	padding:0px;
+}
+.contTexto a{
+	padding:5%;
+	color:#A60000;
+}
+.contLogin {
+width: 400px;
+margin: 10px auto;
+padding: 3%;
+box-shadow: 0px 0px 8px rgba(0,0,0,0.4);
+border-radius: 5px;
+}
+.contDesk {
+margin-top: 2%;
+}
+.contItem{
+	width:33%;
+	margin:1.9px;
+}
+.contItemTitulo{
+	padding:0px;
+}
+.procit {
+	float: right;
+	margin-top: 50px;
+}
+.carousel-control.left {
+background-image: none;
+background-image: -o-linear-gradient(left,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001) 100%);
+background-image: none;
+background-image: none;
+background-repeat: repeat-x;
+}
+.carousel-control.right {
+right: 0;
+left: auto;
+background-image: none;
+background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+background-image: none;
+background-image: none;
+background-repeat: repeat-x;
+}
+.contItemFila {
+border: 1px solid rgba(0,0,0,0.3);
+margin: 1px;
+width: 33%;
+border-radius: 5px;
+padding: 0% 0% 0% 0%;
+}
+.contIconItem {
+padding: 4%;
+}
+.contTitItem{
+	padding:0px;
+		
+}
+.contTitItem{
+	margin:0px;
+	padding:0px;
+}
+.contIconItem span {
+font-size: 2.2em;
+}
+img.img-thumbnail {
+width: 87px;
+}
+.contOpcItem {
+padding: 0px;
+font-size: 1.8em;
+margin-top: 20px;
+/* color: red !important; */
+}
+.contIntItem {
+/* max-height: 245px; */
+overflow: auto;
+	-webkit-box-shadow: 0px 0px 8px;
+	box-shadow: 0px 0px 8px ;
+}
+.form-control.col-md-4 {
+margin: 2px !important;
+}
+#contSearch{
+display: block;
+z-index: 9998;
+width: 200px;
+position: absolute;
+padding: 0px;
+box-shadow: 0px 0px 8px rgba(0,0,0,0.8);
+}
+.contInf {
+padding: 0px;
+}
+.contBusquedaDet {
+padding: 0px;
+}
+.contCumplimiento{
+	padding: 0px;
+}
+.contCumplimiento {
+padding: 0px;
+border: 1px solid rgba(0,0,0,0.3);
+border-radius: 5px;
+width: 41%;
+margin: 1px;
+}
+.contBusquedaDet {
+padding: 0px;
+border: 1px solid rgba(0,0,0,0.3);
+margin: 1px;
+width: 58%;
+border-radius: 5px;
+}
+.conTitSeccion{
+	
+}
+.container {
+padding: 2%;
+}
+.actionButton{
+margin-bottom: 10px;	
+}
+.contActionList{
+padding: 0;
+}
+buttton.btn.btn-info.col-md-12 {
+margin: 2% 0px;
+}
+.formFuncion {
+padding: 0px;
+margin: 0px;
+}
+@media screen and (max-width: 720px) {
+    body {
+        background-color: lightblue;
+    }
+.contItem{
+	width:auto;
+	margin:1.9px;
+}	
+}
+/*---------------------------------------Login*/
+.iniciosesion{
+ margin-bottom: -20px;
+}
+.jumbotron{
+ width: 370px;
+ height: 475px;
+ margin: 0 auto;
+ margin-bottom: 20px;
+ box-shadow: 2px 2px 2px 2px;
+ margin-top: 20px;
+}
+.titulo{
+ color: #fff;
+ width: 330px;
+ border-radius: 8px;
+ padding: 5px 6px 5px -3px;
+ margin-bottom: 17px;
+ text-align: center;
+ margin: 0 auto;
+}
+.titulo h2{
+ color:#a60000;
+}
+/*-------------------------------------Recuperar Cuenta*/
+#ejemplo_email_1{
+	margin-left: 10px;
+	width: 95%;
+}
+#formrecovery {
+	background: rgb(186, 186, 186);
+	border-radius: 15px;
+	width: 50%;
+	margin: 0 auto;
+	padding: 3%;
+}
+#formrecovery h1 {
+	font-size: 26px;
+	text-align: center;
+}
+.boton {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+/* clientes*/
+
+.table{
+		background: white;
+ }
+.botonC{
+		margin-bottom: -30px !important;
+	
+}
+
+/*-----------------------------------------CLIENTES*/
+.botonCliente{
+	margin-bottom: -28px;
+}
+.botonClient2{
+	margin-bottom:30px;
+	margin-left: 20px;
+}
+/*----------------------------------------- garantias*/
+.imagen img {
+	float: right;
+	margin-top: -40px;
+}
+.imagen {
+	float: right;
+}
+#titulo {
+	text-align: center;
+
+}
+.garantias{
+	background: rgba(188, 188, 188, 1);
+	position: absolute;
+	height: 260px;
+	/* margin-left: 280px; */
+	width: 85%;
+	border: solid;
+	border-radius: 58px;
+	border-color: rgb(137, 133, 133)
+	
+}
+.botones {
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+
+.images {
+	margin-top: 150px;
+}
+/*------------------------------------------------citas*/
+	.botones {
+		width: 35%;
+		margin-top: 45px;
+		position: absolute;
+	}
+	#botonagre {
+		color: rgb(169, 68, 66);
+		width:125px;
+	}
+	#botonedit{
+		color: rgb(169, 68, 66);
+		width:125px;
+	}
+	#botoncancel{
+		color: rgb(169, 68, 66);
+		width:125px;
+	}
+	
